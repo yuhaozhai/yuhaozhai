@@ -37,18 +37,31 @@
 
 ---
 
-```python
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+<p  align="center">
 
-num=[];
-i=2
-for i in range(2,100):
-   j=2
-   for j in range(2,i):
-      if(i%j==0):
-         break
-   else:
-      num.append(i)
-print(num)
-```
+​    
+
+ <a href="http://106.15.192.87/">
+
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/2x/external-bolt-essentials-soft-fill-soft-fill-juicy-fish.png" width="60px"/>  
+
+</a>  
+
+<a href="https://space.bilibili.com/23169505">
+
+  <img src="https://img.icons8.com/color/2x/bilibili.png" width="60px"/>  
+
+</a>  &emsp; 
+
+<a href="https://www.zhihu.com/people/yizhi-you-you-zi">
+
+  <img src="https://img.icons8.com/material-outlined/2x/zhihu.png" width="60px"/>  
+
+</a>  &emsp; 
+
+</p>
+
+---
+
+ [![Visits Badge](https://badges.pufler.dev/visits/yuhaozhai/yuhaozhai)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/yuhaozhai)](https://badges.pufler.dev) 
+
