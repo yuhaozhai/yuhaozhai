@@ -1,5 +1,7 @@
 ### Hi👋 I am zhaiyuhao
 
+<img src="https://count.getloli.com/get/@yuhaozhai?theme=rule34" width=300>
+
 <img align="right" height="160" src="https://github-readme-stats.vercel.app/api?username=yuhaozhai&show_icons=true&icon_color=5cb3cc&text_color=ee3f4d&bg_color=ffffff&hide_title=true" />
 
 - :orange_book:  前端Vue,后端Node
@@ -18,5 +20,4 @@
 
 - :e-mail:312753842@qq.com
 
-  </div>
-
+  </div>  
