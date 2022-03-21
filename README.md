@@ -45,12 +45,12 @@
 
 </a>  
 
-<a href="https://space.bilibili.com/23169505">
+<a href="https://space.bilibili.com/23169505" target="_blank">
 
   <img src="https://img.icons8.com/color/2x/bilibili.png" width="60px"/>  
 
 </a>
-<a href="https://www.zhihu.com/people/yizhi-you-you-zi">
+<a href="https://www.zhihu.com/people/yizhi-you-you-zi" target="_blank">
 
   <img src="https://img.icons8.com/material-outlined/2x/zhihu.png" width="60px"/>  
 
