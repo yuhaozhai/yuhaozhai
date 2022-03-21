@@ -39,7 +39,7 @@
 
 <p  align="center">  
 
- <a href="http://106.15.192.87/">
+ <a href="http://106.15.192.87/" target="_blank">
 
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/2x/external-bolt-essentials-soft-fill-soft-fill-juicy-fish.png" width="60px"/>  
 
